@@ -466,7 +466,7 @@ OU
 
 Adapte o deploy a seguir para melhor coincidir com seu ambiente.
 
-```json
+```yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
