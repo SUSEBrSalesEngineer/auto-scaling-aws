@@ -2,13 +2,13 @@
 
 Tutorial seguindo a documentação [https://rancher.com/docs/rancher/v2.6/en/cluster-admin/cluster-autoscaler/amazon/](https://rancher.com/docs/rancher/v2.6/en/cluster-admin/cluster-autoscaler/amazon/)
 
-![architecture.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9331e799-4e27-4cb4-ad6e-4517c5e4d9f1/architecture.png)
+![architecture.png](https://aws.github.io/aws-eks-best-practices/cluster-autoscaling/architecture.png)
 
-> ⚠️ Itens em cor verde devem ser alterados de acordo com o seu ambiente
+> ⚠️ **Itens em cor verde devem ser alterados de acordo com o seu ambiente**
 > 
 
 ---
-
+A sessão abaixo é para apenas servir de referência para a próxima sessão "**Passo a Passo**"
 ### Dicionário AWS
 
 > Nomencaltura:
